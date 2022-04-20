@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@babel/preset-env": "^7.16.11",
-    "@cs3org/node-cs3apis": "cs3org/node-cs3apis#add-typings",
+    "@cs3org/node-cs3apis": "^0.0.38",
     "@grpc/grpc-js": "^1.5.7",
     "@types/google-protobuf": "^3.15.5",
     "google-protobuf": "^3.19.4",
